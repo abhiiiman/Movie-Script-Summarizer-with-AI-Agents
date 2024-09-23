@@ -166,7 +166,7 @@ def save_as_pdf(content, filename="Generated_Movie_Script_Summary.pdf"):
 
 # Streamlit UI for the app
 st.markdown("""
-                # :rainbow[TDCC Assignment 🎞️]
+                # :rainbow[TDCC Assignment] 🎞️
             """)
 st.subheader("🎀 Developed by Crew AI and Meta Llama 3.1 🎀")
 st.header("Movie Script Summary Generator")
